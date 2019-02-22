@@ -40,9 +40,10 @@ nav a {
 	padding: 10px 50px;
 	text-decoration: none;
 	color: black;
+	transition: background-color 0.4s;
 }
 
-nav a:hover {
+#main-nav a:hover {
 	background-color: #e6e6e6;
 }
 
